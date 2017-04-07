@@ -1,0 +1,10 @@
+ここを参考に作った
+http://www.programing-style.com/android/android-api/android-recyclerview/
+
+https://www.javadrive.jp/android/button/index4.html
+http://java-lang-programming.com/ja/articles/17
+http://java-lang-programming.com/ja/articles/65
+http://workpiles.com/2015/04/android-swipe-recyclerview/
+http://android.keicode.com/basics/recyclerview-basic.php
+http://sys1yagi.hatenablog.com/entry/2015/01/09/090000
+http://tiro105.hateblo.jp/entry/2015/03/20/165703
